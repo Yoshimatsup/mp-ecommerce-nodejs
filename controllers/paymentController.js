@@ -1,0 +1,2 @@
+var mp = require('mercadopago')
+
